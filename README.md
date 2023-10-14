@@ -11,13 +11,13 @@
 - Python versão  3.10.12
 
 
-# Como Usar
+## Como Usar
 
 1. Certifique-se de que você tenha o Python instalado em seu sistema.
 2. Execute o código a partir de um ambiente Python (IDE, terminal etc.).
 
 
-# Funcionamento
+## Funcionamento
 
 1. O programa começa exibindo um menu com quatro opções correspondentes às estações do ano no Canadá: Primavera, Verão, Outono e Inverno.
 2. O usuário insere o número correspondente à estação desejada.
